@@ -9,8 +9,8 @@
     "webpack-cli": "^5.1.4"
   },
   "version": "1.0.0",
-  "description": "Webpack-Starter",
-  "name": "webpack-starer",
+  "description": "lightweight-lebpack-template",
+  "name": "chopper",
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "build:dev": "webpack --mode=development",
@@ -20,7 +20,7 @@
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "Choppper"
+    "url": "Chopper"
   },
   "author": "dogukan-sys",
   "license": "MIT"
